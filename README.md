@@ -1,6 +1,8 @@
 # Lupus Decoupled Nuxt 2 Demo
 
 A demo setup for testing https://www.drupal.org/project/lupus_decoupled
+
+
 Nuxt 2 is outdated, please refer to https://github.com/drunomics/lupus-decoupled-nuxt-starter for a recent starter setup.
 
 ## Overview
